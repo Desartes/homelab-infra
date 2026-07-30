@@ -1,0 +1,7 @@
+pve_endpoint   = "https://10.0.0.10:8006/"
+pve_token      = "root@pam!tofu=00000000-0000-0000-0000-000000000000"
+pve_node       = "pve"
+template_vm_id = 9000
+storage        = "local-lvm"
+vm_ip          = "10.0.0.50"
+gateway        = "10.0.0.1"
